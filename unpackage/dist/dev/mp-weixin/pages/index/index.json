@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "逸逸闻鲜事",
+  "usingComponents": {
+    "newsbox": "/components/newsbox/newsbox"
+  }
+}

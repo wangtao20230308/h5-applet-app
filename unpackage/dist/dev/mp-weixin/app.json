@@ -1,0 +1,32 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/user/user"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "逸逸闻鲜事",
+    "navigationBarBackgroundColor": "#3f85ff",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#666",
+    "selectedColor": "#31C27C",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/index",
+        "iconPath": "static/images/home.png",
+        "selectedIconPath": "static/images/home-s.png"
+      },
+      {
+        "text": "个人",
+        "pagePath": "pages/user/user",
+        "iconPath": "static/images/user.png",
+        "selectedIconPath": "static/images/user-s.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
